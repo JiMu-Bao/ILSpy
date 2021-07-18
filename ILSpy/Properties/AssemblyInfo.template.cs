@@ -37,7 +37,7 @@ using System.Runtime.InteropServices;
 internal static class RevisionClass
 {
 	public const string Major = "7";
-	public const string Minor = "0";
+	public const string Minor = "1";
 	public const string Build = "0";
 	public const string Revision = "$INSERTREVISION$";
 	public const string VersionName = null;
